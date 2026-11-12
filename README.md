@@ -83,3 +83,43 @@ Mantener el sistema operativo, aplicaciones y antivirus actualizados, evitar des
 
 **RIESGO 5: Uso de contraseñas débiles o compartidas entre los usuarios de la plataforma educativa**
 **Prevención:** Establecer políticas obligatorias para la creación de contraseñas seguras (longitud mínima, combinaciones complejas) e impedir que se reutilicen o compartan entre compañeros
+
+## ¿Cómo protegerías la información personal de los estudiantes?
+
+Para proteger la información personal de los estudiantes, se deben implementar controles de acceso estrictos, cifrado de datos, contraseñas robustas con 2FA, políticas de minimización de datos y capacitación continua en ciberseguridad
+
+## Cinco reglas de seguridad informática
+
+**Claves seguras:** Usar contraseñas únicas y NO compartrirlas
+
+**Cerrar sesión:** Finalizar siempre la sesión en equipos compartidos o públicos
+
+**Evitar enlaces de riesgo:** No abrir correos o archivos de dudosa procedencia
+
+**Respetar la privacidad:** No debes acceder o alterar datos ajenos sin autorización
+
+**Reportar incidentes:** Comunicar fallas, pérdidas de equipos o anomalías de inmediato
+
+
+# Campaña de Concientización: "Navegar seguros también depende de nosotros"
+
+## Título y eslogan
+### Título: Navegar seguros también depende de nosotros
+### Slogan: Tu información, tus reglas: la seguridad digital empieza con vos
+
+## Cinco recomendaciones para navegar de forma segura
+**Contraseñas robustas:** Utilizar combinaciones largas, únicas y difíciles de adivinar, evitando datos personales
+
+**Verificación en dos pasos:** Activar la autenticación de dos factores (2FA) para sumar una capa extra de protección a las cuentas
+
+**Navegación precavida:** Comprobar siempre las direcciones de los sitios web y evitar ingresar a enlaces desconocidos o sospechosos
+
+**Actualización constante:** Mantener actualizados los sistemas operativos y las aplicaciones para corregir vulnerabilidades de seguridad  
+
+**Privacidad en redes:** Configurar la privacidad de las cuentas y evitar publicar información personal, domicilios o datos privados   
+
+## Advertencia sobre una amenaza informática (Phishing)
+**Cuidado con el engaño (Phishing):** Es una técnica maliciosa en la que suplantan la identidad de instituciones u organizaciones (como bancos o plataformas educativas) mediante mensajes, correos falsos o enlaces engañosos para robar tus contraseñas y datos personales. Nunca ingreses tus credenciales si no estás completamente seguro de la autenticidad del sitio.  
+
+## Reflexión final
+La ciberseguridad no depende únicamente de los sistemas tecnológicos o de los programas antivirus, sino fundamentalmente del comportamiento responsable de cada persona. Proteger nuestros datos es cuidar nuestra identidad, nuestra privacidad y la de toda la comunidad educativa.
